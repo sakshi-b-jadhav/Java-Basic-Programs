@@ -1,0 +1,28 @@
+class Main2
+{
+ public static void main(String[]args)
+  {
+    Main m=new Main(10);
+	   
+  }
+  
+  static
+  {
+   System.out.println("Sakshi");
+   
+  }
+  
+  {
+    System.out.println("Sanket");
+  }
+   
+  public Main(int a)
+  {
+     this.a=a;
+	 int square=a*a;
+	 int  result=square(a);
+  }
+  
+}
+	 
+ 

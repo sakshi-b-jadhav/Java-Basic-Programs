@@ -1,0 +1,8 @@
+//22.	 Infosys want’s to hire a Driver having following criteria’s.
+//a.	Age must be Greater than 40.
+//b.	Driving Experience Greater than 10 Years.
+//c.	12th Mark’s Greater than 60.
+
+public class HireInfosys
+{
+  
